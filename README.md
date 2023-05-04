@@ -10,3 +10,6 @@
 
 3. 查看**outs**文件夹下的扫描结果
  ![image](https://user-images.githubusercontent.com/52817818/236264978-b294c379-83d0-4498-81eb-ff93ac850928.png)
+
+## 参考
+1. [ENScan_GO](https://github.com/wgpsec/ENScan_GO)
